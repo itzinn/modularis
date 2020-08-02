@@ -30,7 +30,7 @@ python modularis.py [-h]
 
 ## Gerational Modules Description
 
-- **Mr Robot Module**
+- **Mr. Robot Module**
 
   input: word1;word2;word3;word4...
 

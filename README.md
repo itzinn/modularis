@@ -4,6 +4,8 @@ Wordlist Generator that uses target's informations.
 
 Its operation is based on generational modules.
 
+<img src=https://github.com/itzinn/modularis/blob/master/screenshot.png>
+
 
 ## Disclaimer
 

@@ -28,13 +28,13 @@ python modularis.py [-h]
 
 ## Gerational Modules Description
 
-### Mr Robot Module
+- **Mr Robot Module**
 
   input: word1;word2;word3;word4...
 
   output: word1, word2, word3, word1word2, word1word2word3...
 
-  **Example:**
+  Example:
   
 <blockquote>
   
@@ -45,13 +45,13 @@ python modularis.py [-h]
 
 </blockquote>
 
-### Dates Module
+- **Dates Module**
 
    input: year1/year2
 
    output: 0101year1, 0201year1 ... 3112year2
 
-   **Example:**
+   Example:
    
 <blockquote>
   
@@ -62,13 +62,13 @@ python modularis.py [-h]
    
 </blockquote>
 
-### Password format Module
+- **Password format Module**
 
    input: <em>word</em>%@^,[123]
    
    output: word0a!1, word0a!2, ..., word9z=3
 
-   **Example:**
+   Example:
    
 <blockquote>
   
@@ -79,19 +79,19 @@ python modularis.py [-h]
    
 </blockquote>
 
-### Informational Module
+- **Informational Module**
 
 input: answers to the questions
    
 output: several combinations based on the answers
 
-### Incremental Module
+- **Incremental Module**
 
    input: personal data + words lenght range
    
    output: all possibilites for the charset selected and the lenght range
 
-   **Example:**
+   Example:
    
 <blockquote>
   
